@@ -1,0 +1,5 @@
+order_id,date,product,category,price,quantity,channel
+1001,2024-01-05,Mouse Gamer,Periféricos,25,2,Web
+1002,2024-01-06,Teclado Mecánico,Periféricos,70,1,Web
+1003,2024-01-07,Notebook Pro,Computación,900,1,Marketplace
+1004,2024-02-01,Monitor 24,Monitores,200,1,Web
