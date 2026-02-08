@@ -1,32 +1,33 @@
-# Dashboard-de-Ventas-E-commerce
-Desarrollé un dashboard interactivo para analizar el rendimiento de un e-commerce ficticio. El objetivo fue entender ventas, ingresos, productos más vendidos y comportamiento de clientes.
-Objetivos:
+# 📊 E-commerce Sales Dashboard
 
-Analizar evolución de ventas mensuales
+## 📌 Descripción
+Este proyecto analiza datos de ventas de un e-commerce ficticio para entender el rendimiento del negocio. El objetivo es transformar datos crudos en información útil mediante análisis y visualizaciones.
 
-Identificar productos top
+## 🎯 Objetivos
+- Analizar evolución de ventas e ingresos
+- Identificar productos más rentables
+- Medir desempeño por categoría y canal
 
-Medir ingresos por categoría
+## 🛠 Herramientas
+- Python (Pandas, NumPy)
+- SQL
+- Power BI
+- Excel
 
-Detectar oportunidades de mejora
+## 🔎 Proceso
+1. Limpieza y transformación de datos con Python  
+2. Modelado de datos con SQL  
+3. Creación de KPIs  
+4. Dashboard interactivo en Power BI
 
-Herramientas:
-Python · SQL · Power BI · Excel
+## 📈 Resultados
+- Identificación de productos top
+- Detección de meses con caída de ventas
+- Segmentación por categoría
 
-Qué hice:
+## 💡 Valor para el negocio
+Permite tomar mejores decisiones sobre stock, precios y campañas.
 
-Limpieza de datos con Python
+---
 
-Modelado en SQL
 
-Creación de KPIs
-
-Dashboard dinámico en Power BI
-
-Resultados:
-✔ Identificación de los 5 productos más rentables
-✔ Detección de meses con caída de ventas
-✔ Segmentación por categoría y canal
-
-Valor para el negocio:
-Permite tomar decisiones sobre stock, precios y campañas.
