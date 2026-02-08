@@ -1,0 +1,20 @@
+ecommerce-sales-dashboard/
+│
+├── data/
+│   ├── raw/
+│   │   └── sales_raw.csv
+│   └── processed/
+│       └── sales_clean.csv
+│
+├── scripts/
+│   ├── 01_clean_data.py
+│   └── 02_kpi_analysis.py
+│
+├── dashboards/
+│   └── ecommerce_dashboard.pbix
+│
+├── reports/
+│   └── summary_report.xlsx
+│
+├── README.md
+└── requirements.txt
